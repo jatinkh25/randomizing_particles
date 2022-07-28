@@ -83,7 +83,7 @@ class Circle {
 }
 const circleArray = []
 
-for (let i = 0; i < 350; ++i) {
+for (let i = 0; i < 300; ++i) {
 	const radius = Math.floor(Math.random() * 5 + 2)
 
 	//setting random x and y coordinate values
